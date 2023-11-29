@@ -1,0 +1,32 @@
+nav{
+    background-color: 
+}
+div{
+    font-size: 350%;
+}
+input{
+    height: 100%;
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    background-color: lightskyblue;
+}
+
+p 
+{
+ background-image: url('main-qimg-6ca702bdccd8bfb561337cd1f163d4eb.jpg');
+}
+body{
+  background-image: url("advantages-and-disadvantages-of-electric-cars.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+  label{
+    background-color: moccasin;
+  }
+  li{
+    background-color: darkgray;
+    width: 300px;
+  }
